@@ -1,4 +1,6 @@
-8dcb0c6 (HEAD -> main, origin/main, origin/HEAD) Did Task 2.1; Refactored StatementPrinter
+829adb5 (HEAD -> main, origin/main, origin/HEAD) Did Task 2.2; added helper for getVolumeCredits.
+e5dce3d Updated gitlog
+8dcb0c6 Did Task 2.1; Refactored StatementPrinter
 d3d52fd Did Task 1.2
 39f0707 Fixed CheckStyle Task 1.1
 80d5083 Something
