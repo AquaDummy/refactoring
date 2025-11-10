@@ -1,4 +1,6 @@
-2c1399a (HEAD -> main, origin/main, origin/HEAD) Did Task 2.3, added usd helper method
+fb49ee7 (HEAD -> main, origin/main, origin/HEAD) Did Task 2.4; Split the loop
+a3a108b Changed gitLog
+2c1399a Did Task 2.3, added usd helper method
 bd9f1ad Updated gitLog
 829adb5 Did Task 2.2; added helper for getVolumeCredits.
 e5dce3d Updated gitlog
@@ -9,4 +11,3 @@ d3d52fd Did Task 1.2
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
-cbe4517 first commit
