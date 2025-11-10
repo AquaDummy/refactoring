@@ -1,4 +1,6 @@
-39f0707 (HEAD -> main, origin/main, origin/HEAD) Fixed CheckStyle Task 1.1
+8dcb0c6 (HEAD -> main, origin/main, origin/HEAD) Did Task 2.1; Refactored StatementPrinter
+d3d52fd Did Task 1.2
+39f0707 Fixed CheckStyle Task 1.1
 80d5083 Something
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
